@@ -1,0 +1,3 @@
+[submodule "esp_dashboard"]
+    path = esp_dashboard
+    url = https://github.com/LinggaAdityaNugroho/Esp-Dashboard-app.git
